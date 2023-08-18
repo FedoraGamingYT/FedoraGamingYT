@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Fedora, a part-time full-stack freelance developer 👨‍💻 since 2019 🚀</div>  
+### <div align="center">I'm Fedora, a full-time full-stack freelance developer 👨‍💻 since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [a ROBLOX AntiCheat](https://github.com/FedoraGamingYT/AntiCheat).  

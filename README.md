@@ -6,16 +6,13 @@
 ### <div align="center">I'm Fedora, a full-time full-stack freelance developer 👨‍💻 since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on [a ROBLOX AntiCheat](https://github.com/FedoraGamingYT/AntiCheat).  
+- 🔭 I’m currently working on [Pixarth](https://pixarth.com/).  
   
 
-- 🌱 I’m currently learning React and HTML.  
+- 🌱 I’m currently learning Binary Counting.
   
 
-- ❓ Ask me about anything related to JavaScript and Roblox  
-  
-
-- ⚡ Fun fact: I like windows more than linux  
+- ❓ Ask me about anything related to JavaScript  
   
 
 <br/>  
